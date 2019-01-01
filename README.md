@@ -17,6 +17,5 @@ Apple Watch 2 (25/11/2016 - Present)
 **by Ivaylo Pavlov** (Last Updated 8 March 2017)
 
 <img src="https://static.garmincdn.com/en/products/010-01955-00/g/cf-lg.jpg" alt="iPhone 6S+" width="200" height="200">
-<img src="http://sellbuyswapfree.com.au/wp-content/uploads/2016/05/229185.jpg" alt="Garmin Vivosmart HR" width="230" height="200">
 <img src="http://target.scene7.com/is/image/Target/16867615?wid=450&hei=450&fmt=pjpeg" alt="Apple Watch" width="200" height="200">
 
